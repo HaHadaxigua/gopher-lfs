@@ -1,4 +1,4 @@
-module layeh.com/gopher-lfs
+module github.com/HaHadaxigua/gopher-lfs
 
 go 1.12
 
